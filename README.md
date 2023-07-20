@@ -19,7 +19,7 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
    ```bash
    git clone https://github.com/pyritez3/DL-Simple-NN.git
    
-   cd your_repository
+   cd DL-Simple-NN
 
 2. Install the required libraries:
     ```bash

@@ -18,4 +18,14 @@ The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6
 1. Clone this repository:
    ```bash
    git clone https://github.com/pyritez3/DL-Simple-NN.git
+   
    cd your_repository
+
+2. Install the required libraries:
+    ```bash
+    pip install tensorflow matplotlib numpy
+## Results
+The model is trained on the CIFAR-10 dataset for 100 epochs. The training and test accuracy and loss graphs are shown in the "MODEL ACCURACY" and "MODEL LOSS" plots.
+
+## License
+This project is licensed under the MIT License
